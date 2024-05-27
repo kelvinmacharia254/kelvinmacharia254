@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Kelvin Macharia
 - 👀 I’m interested in Web development
-- 🌱 I’m currently learning web development with Python Django and React
+- 🌱 I’m currently learning web development with Python Django+Python Deep Dive and React
 - 💞️ I’m looking to collaborate on Django projects
 - 📫 How to reach me: pilotkelvin0@gmail.com
 
