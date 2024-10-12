@@ -4,7 +4,8 @@
 - 💞️ I’m looking to collaborate on Django projects
 - 📫 How to reach me: pilotkelvin0@gmail.com
 
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=kelvinmacharia254)
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=kelvinmacharia254&show_icons=true&theme=radical)
+
 
 
 <!---
